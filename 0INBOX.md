@@ -1,4 +1,4 @@
-# Zettelkasten Inbox
+# INBOX
 :inbox:
 
 ## Reading 
