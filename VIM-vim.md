@@ -1,5 +1,7 @@
-#  Vim Tip Jar
-:tipjar:vim: 
+##  Vim Tip Jar
+  #tipjar #vim
+
+
 
 
 

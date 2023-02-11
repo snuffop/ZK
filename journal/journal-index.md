@@ -1,2 +1,2 @@
 # Zettelkasted 'zk' Journal Index
-:journal:index:
+  #journal #index
