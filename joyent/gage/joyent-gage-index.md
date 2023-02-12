@@ -1,4 +1,0 @@
-
-## Gage Notes
-  #joyent #gage
-
